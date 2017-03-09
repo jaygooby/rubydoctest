@@ -4,7 +4,7 @@ Official repository:
 	* http://github.com/tablatom/rubydoctest
 
 Wiki documentation:
-	* http://github.com/tablatom/rubydoctest/wikis
+	* http://github.com/tablatom/rubydoctest/wiki
 
 == Description:
 
